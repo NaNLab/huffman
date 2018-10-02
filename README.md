@@ -1,2 +1,2 @@
 # huffman
-activités autour du codage de Huffman proposées à la JEDI 2018
+Activité en Python autour du codage de Huffman proposée à la JEDI 2018. L'activité se présente sous la forme d'un notebook jupyter (huffman.ipynb).
